@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Escribrir.aspx" />
+    <Content Include="Mostrar.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +78,13 @@
     </Compile>
     <Compile Include="Escribrir.aspx.designer.cs">
       <DependentUpon>Escribrir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar.aspx.cs">
+      <DependentUpon>Mostrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar.aspx.designer.cs">
+      <DependentUpon>Mostrar.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio1_aspx\\ejercicio1\\ejercicio1\\escribrir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\escribrir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\ejercicio1\\escribrir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\escribrir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio1_aspx\\ejercicio1\\ejercicio1\\escribrir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\escribrir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio1_aspx\\ejercicio1\\ejercicio1\\mostrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\mostrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio1_aspx\\ejercicio1\\ejercicio1\\mostrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\mostrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio1_aspx\\ejercicio1\\ejercicio1\\escribrir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990F1E41-7DAC-4CE3-8E42-3719732ECA3E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\escribrir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,12 +34,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Mostrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Mostrar.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Mostrar.aspx.cs",
+              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Mostrar.aspx.cs",
+              "RelativeToolTip": "Ejercicio1\\Mostrar.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:51:28.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mostrar.aspx",
+              "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Mostrar.aspx",
+              "RelativeDocumentMoniker": "Ejercicio1\\Mostrar.aspx",
+              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Mostrar.aspx",
+              "RelativeToolTip": "Ejercicio1\\Mostrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-05T15:50:48.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Escribrir.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Escribrir.aspx.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Escribrir.aspx.cs",
-              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Escribrir.aspx.cs*",
-              "RelativeToolTip": "Ejercicio1\\Escribrir.aspx.cs*",
+              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Escribrir.aspx.cs",
+              "RelativeToolTip": "Ejercicio1\\Escribrir.aspx.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T15:23:36.651Z",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Escribrir.aspx",
               "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio1_aspx\\Ejercicio1\\Ejercicio1\\Escribrir.aspx",
               "RelativeDocumentMoniker": "Ejercicio1\\Escribrir.aspx",
